@@ -1,10 +1,10 @@
-# Caesar-Cipher
+## Caesar-Cipher
 A basic python project that utilizes the ord() and char() functions to access the American Standard Code for Information Interchange (ASCII) to create a cipher.
 
 # Accomplishments
 Successfully implemented python fundamentals including: 
 * For Loops 
-* If Statements 
+* If and Elif Statements 
 * Defining Functions 
 
 # Challenges 
