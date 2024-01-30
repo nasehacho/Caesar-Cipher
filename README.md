@@ -3,8 +3,8 @@ A basic python project that utilizes the ord() and char() functions to access th
 
 # Accomplishments
 Successfully implemented python fundamentals including: 
-* For loops 
-* If statements 
+* For Loops 
+* If Statements 
 * Defining Functions 
 
 # Challenges 
